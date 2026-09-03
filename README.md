@@ -5,7 +5,7 @@
 <div align="center">
 
 [![Email](https://img.shields.io/badge/Email-rudrapratapyaduwanshi3.0%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrapratapyaduwanshi3.0@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-mynewprojects4u-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/mynewprojects4u)
+[![GitHub](https://img.shields.io/badge/GitHub-rudra--y-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/rudra-y)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![X](https://img.shields.io/badge/X-Follow-0F172A?style=flat-square&logo=x&logoColor=white)](https://x.com/)
 
@@ -63,9 +63,9 @@ From building an **ISRO-sponsored marine intelligence platform** for Smart India
 ### `//` Engineering Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mynewprojects4u&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=rudra-y&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&icon_color=38BDF8&text_color=94A3B8" height="150" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mynewprojects4u&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rudra-y&layout=compact&theme=tokyonight&hide_border=true&bg_color=0F172A&title_color=38BDF8&text_color=94A3B8" height="150" />
 </div>
 
 <br/>
