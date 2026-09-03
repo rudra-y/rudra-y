@@ -4,7 +4,7 @@
 
 <div align="center">
 
-[![Email](https://img.shields.io/badge/Email-rudrapratapofficial2.0%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrapratapofficial2.0@gmail.com)
+[![Email](https://img.shields.io/badge/Email-rudrapratapyaduwanshi3.0%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrapratapyaduwanshi3.0@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-mynewprojects4u-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/mynewprojects4u)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
 [![X](https://img.shields.io/badge/X-Follow-0F172A?style=flat-square&logo=x&logoColor=white)](https://x.com/)
@@ -71,5 +71,5 @@ From building an **ISRO-sponsored marine intelligence platform** for Smart India
 <br/>
 
 <div align="center">
-  <sub>🟢 <b>Status:</b> Open to high-impact AI/ML, Agentic Systems & Senior Engineering roles · Reach out via <a href="mailto:rudrapratapofficial2.0@gmail.com">Email</a> or <a href="https://linkedin.com">LinkedIn</a></sub>
+  <sub>🟢 <b>Status:</b> Open to high-impact AI/ML, Agentic Systems & Senior Engineering roles · Reach out via <a href="mailto:rudrapratapyaduwanshi3.0@gmail.com">Email</a> or <a href="https://linkedin.com">LinkedIn</a></sub>
 </div>
