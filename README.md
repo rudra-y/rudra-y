@@ -72,12 +72,25 @@
 
 ---
 
-<h3 align="center">✦ ENGINEERING METRICS ✦</h3>
+<h3 align="center">✦ CURRENT ARCHITECTURAL FOCUS ✦</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rudra-y&amp;v=2&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;icon_color=D4AF37&amp;text_color=E5E4E2" height="160" />
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rudra-y&amp;v=2&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;text_color=E5E4E2" height="160" />
+  <table width="100%" style="border: none;">
+    <tr>
+      <td width="33%" align="center">
+        <b>🧠 Agentic AI Orchestration</b><br/>
+        <sub style="color: #A3A3A3">Multi-agent decision systems.</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>⚡ High-Throughput APIs</b><br/>
+        <sub style="color: #A3A3A3">Scalable microservices.</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>💎 Cinematic WebGL</b><br/>
+        <sub style="color: #A3A3A3">Immersive digital experiences.</sub>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <br/>
