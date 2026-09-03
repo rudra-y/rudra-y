@@ -1,52 +1,62 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:1E293B&height=190&section=header&text=Rudra&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Full-Stack%20Architect&descSize=15&descColor=94A3B8&descAlignY=60&animation=fadeIn" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:090D16,50:0F172A,100:1E293B&height=200&section=header&text=Rudra%20Pratap&fontSize=46&fontColor=F8FAFC&fontAlignY=38&desc=AI%2FML%20Engineer%20%C2%B7%20Agentic%20Systems%20%C2%B7%20Full-Stack%20Architect&descSize=15&descColor=94A3B8&descAlignY=60&animation=fadeIn" width="100%"/>
 </div>
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
-[![X / Twitter](https://img.shields.io/badge/X-0F172A?style=flat-square&logo=x&logoColor=white)](https://x.com/)
-[![Email](https://img.shields.io/badge/Email-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrapratapofficial2.0@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-0F172A?style=flat-square&logo=googlechrome&logoColor=white)](https://github.com/mynewprojects4u)
+[![Email](https://img.shields.io/badge/Email-rudrapratapofficial2.0%40gmail.com-0F172A?style=flat-square&logo=gmail&logoColor=white)](mailto:rudrapratapofficial2.0@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-mynewprojects4u-0F172A?style=flat-square&logo=github&logoColor=white)](https://github.com/mynewprojects4u)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/)
+[![X](https://img.shields.io/badge/X-Follow-0F172A?style=flat-square&logo=x&logoColor=white)](https://x.com/)
 
 </div>
 
 <br/>
 
-### `//` About
+### `//` About Me
 
-Computer Science engineer architecting **autonomous agentic systems**, distributed intelligence pipelines, and production-grade full-stack products. 
+Final-year **Computer Science engineer** specializing in **agentic AI systems**, multi-agent orchestration, and high-performance full-stack architectures. 
 
-Focused on the intersection of frontier LLMs, hierarchical multi-agent orchestration, and reactive, ultra-low-latency user interfaces.
+From building an **ISRO-sponsored marine intelligence platform** for Smart India Hackathon 2026 to deploying production e-commerce platforms powered by in-app AI assistants, I build software where autonomous intelligence meets human-grade precision.
+
+---
+
+### `//` Flagship & Selected Architectures
+
+| System | Description | Architecture / Stack |
+| :--- | :--- | :--- |
+| **ORCA** | Multi-agent conversational AI platform for marine ecosystem reasoning & autonomous decision support — built for **Smart India Hackathon 2026** solving an **ISRO problem statement**. | Multi-Agent Orchestration · LLM Tool Synthesis · Spatial Data Pipelines |
+| [**Wooly & Co.**](https://wooly-co.netlify.app/) | Production crochet e-commerce platform featuring an interactive in-app AI shopping assistant and India-first checkout flows. | Next.js · Supabase · Claude API · Razorpay |
+| **Vyra AI** | Offline automation CLI for autonomous filesystem orchestration — intelligent file organization, automated backups, and task scheduling. | Python · Systems CLI · Async Task Pipelines |
+| **AXIOM** | High-throughput SaaS telemetry dashboard for product analytics and sub-second metrics aggregation. | Next.js · TypeScript · Tailwind CSS · Vector Analytics |
+| **GameOver** | Cinematic 3D digital experience designed for a physical gaming lounge with real-time interactive shaders. | Three.js · WebGL · Shader Programming · Motion Design |
 
 ---
 
 ### `//` Engineering Vectors & Focus
 
 ```yaml
-01_Agentic_Intelligence:
-    scope: "Hierarchical agent orchestration, structured reasoning graphs, and tool synthesis"
-    focus: "Autonomous execution loops, adaptive memory pipelines, self-correcting agents"
+01_Agentic_Systems:
+    focus: "Hierarchical agent coordination, self-correcting reasoning loops, contextual memory graphs"
+    stack: "LangGraph, LangChain, Anthropic Claude API, OpenAI Function Calling"
 
-02_Distributed_Infrastructure:
-    scope: "Scalable backend systems and high-throughput data pipelines"
-    focus: "Vector search architectures (HNSW/IVF), real-time event streaming, type-safe APIs"
+02_Distributed_Backends:
+    focus: "Low-latency event streams, vector retrieval pipelines, real-time database sync"
+    stack: "TypeScript, Python, Node.js, PostgreSQL, pgvector, Supabase, Redis"
 
 03_Precision_Interfaces:
-    scope: "Cinematic, high-fidelity human-AI interaction surfaces"
-    focus: "Sub-50ms latency, zero-layout-shift UI, immersive WebGL/Three.js environments"
+    focus: "Cinematic, sub-50ms reactive interfaces blending rich WebGL with AI runtime capabilities"
+    stack: "Next.js (App Router), Tailwind CSS, Three.js, Framer Motion"
 ```
 
 ---
 
-### `//` Tech Stack & Architecture
+### `//` Technical Palette
 
-| Layer | Technologies |
-| :--- | :--- |
-| **AI / Machine Learning** | Python · PyTorch · LangGraph · LangChain · OpenAI & Anthropic SDKs · Vector DBs (pgvector, Qdrant) |
-| **Systems & Backend** | TypeScript · Node.js · Go · PostgreSQL · Redis · Supabase · Docker · REST & GraphQL |
-| **Frontend & Interfaces** | Next.js (App Router) · React · Tailwind CSS · Three.js / WebGL · Framer Motion |
-| **Cloud & DevOps** | Linux · Git · Cloudflare Workers · Netlify · Vercel · AWS / GCP |
+- **AI / Machine Learning:** Python · PyTorch · LangGraph · LangChain · OpenAI & Claude SDKs · Vector DBs (pgvector, Qdrant)
+- **Backend & Systems:** TypeScript · Node.js · Go · PostgreSQL · Redis · Supabase · REST / GraphQL · Docker
+- **Frontend & 3D:** Next.js (App Router) · React · Tailwind CSS · Three.js · WebGL · Framer Motion
+- **DevOps & Cloud:** Linux · Git · Cloudflare Workers · Netlify · Vercel · AWS
 
 ---
 
@@ -61,5 +71,5 @@ Focused on the intersection of frontier LLMs, hierarchical multi-agent orchestra
 <br/>
 
 <div align="center">
-  <sub>🟢 <b>Status:</b> Available for high-impact AI/ML, Agentic Systems & Senior Engineering roles · Reach out via Email or LinkedIn</sub>
+  <sub>🟢 <b>Status:</b> Open to high-impact AI/ML, Agentic Systems & Senior Engineering roles · Reach out via <a href="mailto:rudrapratapofficial2.0@gmail.com">Email</a> or <a href="https://linkedin.com">LinkedIn</a></sub>
 </div>
