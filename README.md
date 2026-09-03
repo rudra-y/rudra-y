@@ -75,12 +75,12 @@
 <h3 align="center">✦ ENGINEERING METRICS ✦</h3>
 
 <div align="center">
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rudra-y&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;icon_color=D4AF37&amp;text_color=E5E4E2" height="160" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=rudra-y&amp;v=2&amp;show_icons=true&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;icon_color=D4AF37&amp;text_color=E5E4E2" height="160" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rudra-y&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;text_color=E5E4E2" height="160" />
+  <img src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=rudra-y&amp;v=2&amp;layout=compact&amp;hide_border=true&amp;bg_color=000000&amp;title_color=D4AF37&amp;text_color=E5E4E2" height="160" />
 </div>
 
 <br/>
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rect&amp;color=0:000000,100:151515&amp;height=60&amp;text=OPEN%20TO%20ELITE%20AI%2FML%20%26%20ENGINEERING%20ROLES&amp;fontSize=14&amp;fontColor=D4AF37" width="100%"/>
+  <h4 style="color: #D4AF37;">✦ OPEN TO ELITE AI/ML &amp; ENGINEERING ROLES ✦</h4>
 </div>
